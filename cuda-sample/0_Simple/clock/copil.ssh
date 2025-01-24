@@ -1,0 +1,7 @@
+#!/bin/bash
+
+file=${1}
+nvcc -o ${file} ${file}.cu
+./${fle}
+
+
